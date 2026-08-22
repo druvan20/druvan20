@@ -1,117 +1,130 @@
 <!--
-  GitHub Profile README — Druvan Gurukar (druvan20)
-  Theme: Agent Protocol (matches https://druvan20.github.io/druvan-portfolio/)
+  AGENT PROTOCOL // PROFILE README
+  Brand: navy #0F1923 · accent #FF4655 · text #ECE8E1
+  Portfolio: https://druvan20.github.io/druvan-portfolio/
 -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2800&pause=900&color=FF4655&center=true&vCenter=true&width=720&lines=DRUVAN+GURUKAR;Trainee+Engineer+%40+HashedIn;Agent+Protocol+%C2%B7+Build+%26+Ship" alt="Typing header" />
+<!-- 1 · Capsule banner (navy → red gradient wave) -->
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0F1923,50:1a2733,100:FF4655&height=220&section=header&text=AGENT%20PROTOCOL%20-%20DRUVAN%20GURUKAR&fontSize=34&fontColor=ECE8E1&fontAlignY=38&desc=GenAI%20%C2%B7%20Agentic%20Systems%20%C2%B7%20Full-Stack&descSize=16&descAlignY=58&animation=fadeIn&stroke=FF4655&strokeWidth=1"
+  alt="AGENT PROTOCOL — Druvan Gurukar"
+  width="100%"
+/>
+
+<!-- 2 · Animated typing tagline -->
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=FF4655&center=true&vCenter=true&multiline=true&width=780&height=90&lines=GenAI+%2F+Agentic+AI+Engineer;SDE1+Trainee+%40+HashedIn+by+Deloitte;Protocol+online+%C2%B7+build+agents+that+ship"
+  alt="Typing tagline"
+/>
 
 <br />
 
-**Trainee Engineer (SDE1)** · HashedIn by Deloitte · May 2026 – Present  
-Building systems at the edge of **AI · Data · Full-stack**
-
-<br />
-
-[![Portfolio](https://img.shields.io/badge/🎯_Live_Portfolio-FF4655?style=for-the-badge&logo=github&logoColor=white)](https://druvan20.github.io/druvan-portfolio/)
+[![Portfolio](https://img.shields.io/badge/Live_Portfolio-FF4655?style=for-the-badge&logo=vercel&logoColor=white)](https://druvan20.github.io/druvan-portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/druvan-gurukar/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:druvangurukar20@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/druvan20)
+[![GitHub](https://img.shields.io/badge/druvan20-0F1923?style=for-the-badge&logo=github&logoColor=white)](https://github.com/druvan20)
 
-<br />
-
-<img src="https://komarev.com/ghpvc/?username=druvan20&style=for-the-badge&color=ff4655" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=druvan20&label=PROFILE+VIEWS&style=for-the-badge&color=ff4655" alt="Profile views" />
 
 </div>
 
 ---
 
-## ⚡ Current op
+## About
 
-```text
-ROLE     :: Trainee Engineer (SDE1) @ HashedIn by Deloitte
-STATUS   :: Deploy-ready · Prompt Eng · AIDLC · Adv. DE + AIML
-FOCUS    :: Agentic RAG · Databricks · Full-stack delivery
-PORTFOLIO:: https://druvan20.github.io/druvan-portfolio/
-```
+I'm **Druvan Gurukar** — Trainee Engineer (SDE1) at **HashedIn by Deloitte**, focused on **agentic systems**, **LangChain / LangGraph**, and **RAG** pipelines that go beyond demos.
 
-I ship training → product: agentic workflows, data pipelines, and UI that doesn’t feel like a template.
+B.E. CSE (AI/ML) at Vidyavardhaka College of Engineering, Mysore (9.5 CGPA). I design multi-agent workflows, data/ETL modernization, and production backends — then wrap them in interfaces that feel intentional.
+
+→ Full ops brief: **[Agent Protocol portfolio](https://druvan20.github.io/druvan-portfolio/)**
 
 ---
 
-## 🎮 Featured drop
+## Mission board
 
-| Project | What it is | Stack |
-|:--------|:-----------|:------|
-| **[druvan-portfolio](https://github.com/druvan20/druvan-portfolio)** · [Live ↗](https://druvan20.github.io/druvan-portfolio/) | Agent Protocol SPA — 3D ops room, rotating agent themes, FormSubmit uplink | React · Three.js · Vite · TS |
-| **[Nexus Copilot](https://nexus-copilot-7474657914899240.aws.databricksapps.com)** | Agentic RAG on Databricks (app may sleep when idle) | Databricks · RAG · Agents |
-| **Early cardio disease detection** | ML notebook pipeline for early risk signals | Python · Jupyter |
+Flagship builds — same priority as the portfolio.
+
+| Code | Mission | Pitch | Links |
+|:----:|:--------|:------|:------|
+| **M-00** | **Nexus Copilot** | Agentic RAG on Databricks — Vector Search, tool-calling, MLflow grading | [Live ↗](https://nexus-copilot-7474657914899240.aws.databricksapps.com) |
+| **M-01** | **ETL Migration Intelligence** | Multi-agent legacy ETL → PySpark on GCP (LangGraph + Deep Agents) | [Repo](https://github.com/druvan20/ETL-migration_Modernization) |
+| **M-02** | **AI Agent Factory** | BRD/PRD → code via 3 agentic workflows, HITL + LangGraph checkpoints | [Repo](https://github.com/druvan20/ai-agent-factory) |
+| **M-03** | **FoodieHub** | Production .NET 8 food-delivery backend — roles, batching, wallets | [Repo](https://github.com/druvan20/FoodieHub_Backend_Dotnet) |
+| **M-04/05** | **Smartwatch Leaderboard** | Spring Boot + Kafka API paired with Angular 20 / NgRx UI | [API](https://github.com/druvan20/smartwatch-leaderboard) · [UI](https://github.com/druvan20/Smartwatch_leaderboard_Frontend) |
+
+Also shipping: **[druvan-portfolio](https://github.com/druvan20/druvan-portfolio)** — this Agent Protocol SPA (React · Three.js · Vite).
 
 ---
 
-## 🛠️ Loadout
+## Loadout
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,ts,react,nodejs,threejs,postgres,mongodb,docker,git,aws,vscode&theme=dark" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=python,java,ts,react,nodejs,fastapi,spring,dotnet,postgres,mongodb,docker,aws,gcp,git&theme=dark" alt="Skills" />
 </p>
 
-**Languages** · Python · Java · TypeScript / JavaScript · SQL  
-**Frontend** · React · Three.js / R3F · Vite · CSS Modules  
-**Data / AI** · Databricks · RAG · Prompt engineering · AIDLC  
-**Ops** · Git · Docker · Cloud basics · CI (GitHub Actions)
+```text
+AI / Agents   ::  LangChain · LangGraph · RAG · Prompt Eng · AIDLC · Databricks · MLflow
+Backend       ::  FastAPI · Spring Boot · .NET 8 · Kafka · JWT / RBAC
+Frontend      ::  React · Three.js · Angular · TypeScript
+Data / Cloud  ::  PySpark · GCP · Vector Search · ChromaDB
+```
 
 ---
 
-## 📊 Ops dashboard
+## Ops dashboard
+
+Custom hex theme — not a stock `theme=` preset.
 
 <div align="center">
 
-<a href="https://github.com/druvan20">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=druvan20&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF4655&icon_color=FF4655&text_color=E6EDF3" alt="GitHub stats" />
-</a>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=druvan20&show_icons=true&hide_border=true&bg_color=0F1923&title_color=FF4655&icon_color=FF4655&text_color=ECE8E1&ring_color=FF4655" alt="GitHub stats" />
 &nbsp;
-<a href="https://github.com/druvan20">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=druvan20&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF4655&text_color=E6EDF3" alt="Top languages" />
-</a>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=druvan20&layout=compact&hide_border=true&bg_color=0F1923&title_color=FF4655&text_color=ECE8E1" alt="Top languages" />
 
 <br /><br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=druvan20&theme=radical&hide_border=true&background=0D1117&ring=FF4655&fire=FF4655&currStreakLabel=FF4655" alt="GitHub streak" />
-
-<br /><br />
-
-<img src="https://github-profile-trophy.vercel.app/?username=druvan20&theme=onedark&no-frame=true&column=7&margin-w=12&margin-h=12" alt="Trophies" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=druvan20&hide_border=true&background=0F1923&ring=FF4655&fire=FF4655&currStreakLabel=FF4655&sideLabels=ECE8E1&dates=8B949E&stroke=1a2733" alt="GitHub streak" />
 
 </div>
 
 ---
 
-## 🐍 Contribution snake
+## Contribution grid
 
 <div align="center">
 
-<!-- Needs the generate-snake.yml workflow once — generates github-contribution-grid-snake.svg -->
-<img alt="Snake animation" src="https://raw.githubusercontent.com/druvan20/druvan20/output/github-contribution-grid-snake.svg" />
-
-</div>
-
----
-
-## 📡 Uplink
-
-- **Portfolio** → [druvan20.github.io/druvan-portfolio](https://druvan20.github.io/druvan-portfolio/)
-- **LinkedIn** → [druvan-gurukar](https://www.linkedin.com/in/druvan-gurukar/)
-- **Mail** → [druvangurukar20@gmail.com](mailto:druvangurukar20@gmail.com)
-
----
-
-<div align="center">
-
-*`he/him` · open to interesting problems · not a template*
+<img alt="Contribution snake" src="https://raw.githubusercontent.com/druvan20/druvan20/output/github-contribution-grid-snake.svg" />
 
 <br />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF4655&height=100&section=footer" alt="" />
+<!-- Phase 2 · lowlighter/metrics (regenerated by Actions) -->
+<img alt="GitHub metrics" width="100%" src="./github-metrics.svg" />
+
+</div>
+
+---
+
+## Uplink
+
+```text
+PORTFOLIO  ::  https://druvan20.github.io/druvan-portfolio/
+LINKEDIN   ::  https://www.linkedin.com/in/druvan-gurukar/
+EMAIL      ::  druvangurukar20@gmail.com
+HANDLE     ::  @druvan20
+```
+
+---
+
+<div align="center">
+
+*`he/him` · agentic systems over template apps · protocol stays online*
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4655,100:0F1923&height=100&section=footer&reversal=true"
+  alt=""
+  width="100%"
+/>
 
 </div>
