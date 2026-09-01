@@ -36,7 +36,7 @@
 
 I'm **Druvan Gurukar** — Trainee Engineer (SDE1) at **HashedIn by Deloitte**, focused on **agentic systems**, **LangChain / LangGraph**, and **RAG** pipelines that go beyond demos.
 
-B.E. CSE (AI/ML) at Vidyavardhaka College of Engineering, Mysore (9.5 CGPA). I design multi-agent workflows, data/ETL modernization, and production backends — then wrap them in interfaces that feel intentional.
+B.E. CSE (AI/ML) at Vidyavardhaka College of Engineering, Mysore (9.31 CGPA). I design multi-agent workflows, data/ETL modernization, and production backends — then wrap them in interfaces that feel intentional.
 
 → Full ops brief: **[Agent Protocol portfolio](https://druvan20.github.io/druvan-portfolio/)**
 
